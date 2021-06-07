@@ -2,7 +2,6 @@ PYTHON CREDIT CARD CASE STUDY
 
 # IMPORTING LIBRARIES
 
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
